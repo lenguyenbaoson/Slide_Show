@@ -1,0 +1,29 @@
+C:\Users\USER\Documents\Visual Studio 2015\Projects\slide\SlideShow\bin\Debug\SlideShow.exe.config
+C:\Users\USER\Documents\Visual Studio 2015\Projects\slide\SlideShow\bin\Debug\SlideShow.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\slide\SlideShow\bin\Debug\SlideShow.pdb
+C:\Users\USER\Documents\Visual Studio 2015\Projects\slide\SlideShow\obj\Debug\SlideShow.csprojResolveAssemblyReference.cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\slide\SlideShow\obj\Debug\SlideShow.SlideShow.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\slide\SlideShow\obj\Debug\SlideShow.Properties.Resources.resources
+C:\Users\USER\Documents\Visual Studio 2015\Projects\slide\SlideShow\obj\Debug\SlideShow.csproj.GenerateResource.Cache
+C:\Users\USER\Documents\Visual Studio 2015\Projects\slide\SlideShow\obj\Debug\SlideShow.exe
+C:\Users\USER\Documents\Visual Studio 2015\Projects\slide\SlideShow\obj\Debug\SlideShow.pdb
+C:\Users\TGG\Desktop\slide-master\slide-master\SlideShow\bin\Debug\SlideShow.exe.config
+C:\Users\TGG\Desktop\slide-master\slide-master\SlideShow\bin\Debug\SlideShow.exe
+C:\Users\TGG\Desktop\slide-master\slide-master\SlideShow\bin\Debug\SlideShow.pdb
+C:\Users\TGG\Desktop\slide-master\slide-master\SlideShow\obj\Debug\SlideShow.csprojAssemblyReference.cache
+C:\Users\TGG\Desktop\slide-master\slide-master\SlideShow\obj\Debug\SlideShow.SlideShow.resources
+C:\Users\TGG\Desktop\slide-master\slide-master\SlideShow\obj\Debug\SlideShow.Properties.Resources.resources
+C:\Users\TGG\Desktop\slide-master\slide-master\SlideShow\obj\Debug\SlideShow.csproj.GenerateResource.cache
+C:\Users\TGG\Desktop\slide-master\slide-master\SlideShow\obj\Debug\SlideShow.csproj.CoreCompileInputs.cache
+C:\Users\TGG\Desktop\slide-master\slide-master\SlideShow\obj\Debug\SlideShow.exe
+C:\Users\TGG\Desktop\slide-master\slide-master\SlideShow\obj\Debug\SlideShow.pdb
+C:\Users\TGG\Desktop\slide-master\SlideShow\SlideShow\SlideShow\bin\Debug\SlideShow.exe.config
+C:\Users\TGG\Desktop\slide-master\SlideShow\SlideShow\SlideShow\bin\Debug\SlideShow.exe
+C:\Users\TGG\Desktop\slide-master\SlideShow\SlideShow\SlideShow\bin\Debug\SlideShow.pdb
+C:\Users\TGG\Desktop\slide-master\SlideShow\SlideShow\SlideShow\obj\Debug\SlideShow.csprojAssemblyReference.cache
+C:\Users\TGG\Desktop\slide-master\SlideShow\SlideShow\SlideShow\obj\Debug\SlideShow.SlideShow.resources
+C:\Users\TGG\Desktop\slide-master\SlideShow\SlideShow\SlideShow\obj\Debug\SlideShow.Properties.Resources.resources
+C:\Users\TGG\Desktop\slide-master\SlideShow\SlideShow\SlideShow\obj\Debug\SlideShow.csproj.GenerateResource.cache
+C:\Users\TGG\Desktop\slide-master\SlideShow\SlideShow\SlideShow\obj\Debug\SlideShow.csproj.CoreCompileInputs.cache
+C:\Users\TGG\Desktop\slide-master\SlideShow\SlideShow\SlideShow\obj\Debug\SlideShow.exe
+C:\Users\TGG\Desktop\slide-master\SlideShow\SlideShow\SlideShow\obj\Debug\SlideShow.pdb
